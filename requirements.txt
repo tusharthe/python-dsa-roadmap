@@ -1,0 +1,80 @@
+# Core Python Libraries for DSA
+# =================================
+
+# Data Structure Libraries
+# -------------------------
+# Standard library imports (no installation needed):
+# - collections (defaultdict, Counter, deque, namedtuple)
+# - heapq (priority queues, heap operations)
+# - bisect (binary search, insertion sort)
+# - itertools (permutations, combinations, accumulate)
+# - functools (lru_cache for memoization)
+
+# Visualization and Analysis
+# --------------------------
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Data Manipulation (DS/AI Transition)
+# ------------------------------------
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Graph Algorithms and Visualization
+# ----------------------------------
+networkx>=2.6
+graphviz>=0.20
+
+# Interactive Notebooks
+# ----------------------
+jupyter>=1.0.0
+ipywidgets>=7.6.0
+
+# Code Quality and Testing
+# ------------------------
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.910
+
+# Performance Profiling
+# ----------------------
+memory-profiler>=0.60.0
+line-profiler>=3.5.0
+
+# Web Development (for project visualizations)
+# --------------------------------------------
+flask>=2.0.0
+streamlit>=1.15.0
+
+# GUI Development (for desktop visualizations)
+# --------------------------------------------
+tkinter-page>=0.3.0
+PyQt5>=5.15.0
+
+# Competitive Programming Utilities
+# ---------------------------------
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+
+# Optional: Advanced Data Structures
+# ----------------------------------
+sortedcontainers>=2.4.0
+bintrees>=2.2.0
+
+# Machine Learning Preview (Week 6+)
+# ----------------------------------
+scikit-learn>=1.1.0
+scipy>=1.8.0
+
+# Development and Productivity
+# ----------------------------
+rich>=12.0.0          # Beautiful console output
+tqdm>=4.64.0          # Progress bars
+typer>=0.6.0          # CLI application framework
+
+# Documentation
+# -------------
+mkdocs>=1.4.0
+mkdocs-material>=8.5.0
